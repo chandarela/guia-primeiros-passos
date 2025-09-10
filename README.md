@@ -31,7 +31,7 @@ Abstraindo o conceito de "Barramento" de serviços, se você precisasse obter á
 ![QuemPodeUtilizar](./img/QuemPodeUtilizar.JPG) 
 
 
-Todos os agentes e não agentes aderidos à CCEE. Caso queira consultar informações em nome de outro agente que não esteja aderido à Plataforma de Integração é necessário que tenha representação operacional total do agente representado.  
+Todos os agentes e não agentes aderidos à CCEE. Caso queira consultar informações em nome de outro agente que não esteja aderido à Plataforma de Integração é necessário que tenha representação operacional total e parcial do agente representado.  
 
 --- 
 ## O que é o ambiente piloto?
@@ -187,5 +187,6 @@ Se ainda sentir que falta alguma coisa para entendimento completo do chamado, ad
 
 - [Plataforma de integração](https://www.ccee.org.br/web/guest/documentos/plataforma-de-integracao).
 - [CCEE](https://www.ccee.org.br/web/guest).
+
 
 
